@@ -18,4 +18,4 @@ def get_age(promt: str)->int:
 # Call the function and store the result
 user_age=get_age("enter your age: ")
 # Display the valid age
-print("your valid age is: ",user_age)
+print("your valid age is: ",user_age) 
